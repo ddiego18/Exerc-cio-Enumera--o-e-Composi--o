@@ -1,0 +1,13 @@
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\bin\Debug\netcoreapp3.1\Exercício Enumeração e Composição.exe
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\bin\Debug\netcoreapp3.1\Exercício Enumeração e Composição.deps.json
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\bin\Debug\netcoreapp3.1\Exercício Enumeração e Composição.runtimeconfig.json
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\bin\Debug\netcoreapp3.1\Exercício Enumeração e Composição.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\bin\Debug\netcoreapp3.1\Exercício Enumeração e Composição.dll
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\bin\Debug\netcoreapp3.1\Exercício Enumeração e Composição.pdb
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\obj\Debug\netcoreapp3.1\Exercício Enumeração e Composição.csprojAssemblyReference.cache
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\obj\Debug\netcoreapp3.1\Exercício Enumeração e Composição.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\obj\Debug\netcoreapp3.1\Exercício Enumeração e Composição.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\obj\Debug\netcoreapp3.1\Exercício Enumeração e Composição.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\obj\Debug\netcoreapp3.1\Exercício Enumeração e Composição.dll
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\obj\Debug\netcoreapp3.1\Exercício Enumeração e Composição.pdb
+C:\Users\ddieg\Desktop\Exercício Enumeração e Composição\Exercício Enumeração e Composição\obj\Debug\netcoreapp3.1\Exercício Enumeração e Composição.genruntimeconfig.cache

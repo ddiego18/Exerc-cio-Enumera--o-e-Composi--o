@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercício Enumeração e Composição/1.0.0": {
+        "runtime": {
+          "Exercício Enumeração e Composição.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício Enumeração e Composição/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
